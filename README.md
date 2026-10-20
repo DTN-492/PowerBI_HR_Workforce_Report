@@ -21,8 +21,5 @@
 <img width="1290" height="737" alt="image" src="https://github.com/user-attachments/assets/8634977a-3d12-413b-8a30-edd9b02fdfa4" />
 
 # III. Conclusion
-- Production department has the highest number of employee(~68% total) but also highest turnover rate(41%)
-
-  => This could lead to a huge loss of recruitment costs, training costs for new employees, ...
-  
-  => The HR department needs to investigate the reason behind this and conduct an anonymous survey on departed employees and existing employees
+- This report brings together many of the key workforce metrics HR managers need, including employee tenure, turnover rates, and satisfaction scores. By presenting these indicators in one place, it helps HR identify patterns, compare outcomes across departments, and pinpoint areas that may need further investigation
+- The findings highlight the Production department as a priority for review, with the highest turnover rate at 41%. HR can use this insight to explore potential contributing factors and determine where targeted retention efforts may be most beneficial
