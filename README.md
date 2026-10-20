@@ -21,4 +21,8 @@
 <img width="1290" height="737" alt="image" src="https://github.com/user-attachments/assets/8634977a-3d12-413b-8a30-edd9b02fdfa4" />
 
 # III. Conclusion
+- Production department has the highest number of employee(~68% total) but also highest turnover rate(41%)
 
+  => This could lead to a huge loss of recruitment costs, training costs for new employees, ...
+  
+  => The HR department needs to investigate the reason behind this and conduct an anonymous survey on departed employees and existing employees
