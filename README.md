@@ -13,7 +13,10 @@
 ## 2. Business requirement:
 - Develop a clear yet comprehensive workforce report that provides an overview of the organization’s workforce, along with a detailed employee information table containing relevant details for each employee
 
-# II. Visualization
+# II. Data model
+<img width="837" height="610" alt="image" src="https://github.com/user-attachments/assets/c1826331-133c-41de-9034-0647e681bbdb" />
+
+# III. Visualization
 ## 1. Executive Summary
 <img width="1287" height="737" alt="image" src="https://github.com/user-attachments/assets/fc9555ce-15ed-4ad1-893f-4ddd67441e6a" />
 
