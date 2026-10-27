@@ -1,4 +1,12 @@
 # [PowerBI] HR Workforce Report
+# Table of contents
+[**I. Introduction**](#i-introduction)
+
+[**II. Data model**](#ii-data-model)
+
+[**III. Visualization**](#iii-visualization)
+
+[**IV. Conclusion**](#iv-conclusion)
 # I. Introduction
 ## 1. Dataset overview
 - This dataset contains employee information in a US company:
