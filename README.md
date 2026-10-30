@@ -19,6 +19,7 @@
   + Absence days
   + Engagement score, Satisfaction score
 ## 2. Business requirement:
+- Who's for: HR managers
 - Develop a clear yet comprehensive workforce report that provides an overview of the organization’s workforce, along with a detailed employee information table containing relevant details for each employee
 
 # II. Data model
@@ -28,6 +29,8 @@
 ## 1. Executive Summary
 <img width="1287" height="737" alt="image" src="https://github.com/user-attachments/assets/fc9555ce-15ed-4ad1-893f-4ddd67441e6a" />
 
+- **Insight:** The dashboard shows a workforce of 298 employees, with an average tenure of 9.84 years and an absence rate of 1.29%. Satisfaction averages 3.88, while turnover varies across departments, suggesting that retention challenges may be concentrated in particular teams.
+- **Recommendation:** Review turnover alongside satisfaction and tenure by department to identify where employees may need more support. Prioritize targeted retention actions—such as stay interviews, manager check-ins, or career-development plans—in departments with higher turnover, and track whether satisfaction and retention improve over time.
 ## 2. Workforce Database Overview
 <img width="1290" height="737" alt="image" src="https://github.com/user-attachments/assets/8634977a-3d12-413b-8a30-edd9b02fdfa4" />
 
